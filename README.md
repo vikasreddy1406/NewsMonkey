@@ -1,3 +1,12 @@
+### NewsMonkey is a daily news app, which fetches news from News API. 
+### NewsMonkey is made using React js and Bootstrap
+
+![Screenshot 2024-01-27 131500](https://github.com/vikasreddy1406/NewsMonkey/assets/96761217/96515a38-e01f-4d67-beed-825d35a1a399)
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
